@@ -8,3 +8,6 @@ Originally comes from updated definitions in https://github.com/the-via/keyboard
 # qmk-keymap
 Put content of the folder under `qmk_firmware/keyboards/handwired/dactyl_manuform/5x6/keymaps`
 before compiling firmware with `qmk compile --keyboard handwired/dactyl_manuform/5x6 --keymap via`
+# keyboard-layout-editor
+File exctly as imported from http://www.keyboard-layout-editor.com
+Key position array from [via-keyboard](#via-keyboard) directory is based on part of this export of the layout designed in keyboard-layout-editor (but they are not the same).
